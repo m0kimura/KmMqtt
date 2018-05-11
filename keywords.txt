@@ -1,0 +1,20 @@
+KmMqtt    KEYWORD1
+
+nop       KEYWORD2
+read      KEYWORD2
+edit      KEYWORD2
+unstring  KEYWORD2
+write     KEYWORD2
+print     KEYWORD2
+arrange   KEYWORD2
+begin     KEYWORD2
+reconnect KEYWORD2
+loop      KEYWORD2
+publish   KEYWORD2
+unstring  KEYWORD2
+Count     KEYWORD2
+Command   KEYWORD2
+Op1       KEYWORD2
+Op2       KEYWORD2
+Op3       KEYWORD2
+
